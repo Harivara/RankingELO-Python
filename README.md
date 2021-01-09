@@ -1,4 +1,4 @@
-# RankingELO  
+# RankingELO - Python
 
 Simple implementation of ELO Ranking Computation. [Writeup in C# can be found here.](https://t.co/wt9T8Cds3u?amp=1)  
 
